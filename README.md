@@ -12,10 +12,3 @@
 <h3 align="center"> ✨Me✨  </h3>
 
 <p align="center"> <a href="https://twitch.tv/jwkwon0817"><img src="https://img.shields.io/badge/Twitch-8f43ff?style=flat-square&logo=Twitch&logoColor=white"/> <a href="https://discord.gg/p8bGJzqx2n"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/> <a href="https://steamcommunity.com/id/jwkwon0817"><img src="https://img.shields.io/badge/Steam-06183a?style=flat-square&logo=Steam&logoColor=white"/></p>
-
-<div align="center" style="text-align:center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
