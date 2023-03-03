@@ -34,6 +34,8 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white" />
+	<img src="https://img.shields.io/badge/WebStorm%-000000?style=flat&logo=WebStorm&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google%20Colab%-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 </div>
 
