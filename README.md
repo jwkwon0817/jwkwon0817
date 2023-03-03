@@ -59,8 +59,8 @@
 <br/>
 
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
-<hr margin="auto" width="100px;"/>
 <div align="center">
+	<hr width="100px;"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact">
 	<br/><br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true">
