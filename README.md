@@ -75,7 +75,7 @@
 
 <h3 align="center">❓ BOJ ❓</h3>
 <div align="center">
-	<hr width="300px;"/>
+	<hr width="200px;"/>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
 </div>
 
@@ -83,6 +83,7 @@
 
 <h3 align="center">😀 HITS 😀</h3>
 <div align="center">
+	<hr width="50px;"/>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwkwon0817%2Fhit-counter&count_bg=%231FD9DF&title_bg=%231F9ED1&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 
