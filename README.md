@@ -10,7 +10,7 @@
 
 <h3 align="center">🖥️ OS 🖥️</h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
+	<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
 
 <h3 align="center">✨ Languages ✨</h3>
@@ -24,6 +24,7 @@
 <h3 align="center">✨ Platforms ✨</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </div>
