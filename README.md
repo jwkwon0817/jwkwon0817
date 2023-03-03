@@ -60,7 +60,7 @@
 <h3 align="center">⏰ Wakatime ⏰</h3>
 <div align="center">
 	<hr width="300px;"/>
-	<a href="https://wakatime.com/@9ff48db4-4c2e-4980-a4ca-5d5f16399537"><img src="https://wakatime.com/badge/user/9ff48db4-4c2e-4980-a4ca-5d5f16399537.svg" alt="Total time coded since Nov 7 2022" /></a>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jwkwon0817"/>
 </div>
 
 <br/><br/>
