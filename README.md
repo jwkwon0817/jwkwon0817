@@ -9,6 +9,8 @@
 <p align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
-<h3 align="center"> ✨Me✨  </h3>
+<h3 align="center"> ✨Me✨ </h3>
+
+[![wakatime](https://wakatime.com/badge/user/04576067-463a-4fd9-be4e-56687a44d3fb.svg)](https://wakatime.com/@04576067-463a-4fd9-be4e-56687a44d3fb)
 
 <p align="center"> <a href="https://discord.gg/mng"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/></p>
