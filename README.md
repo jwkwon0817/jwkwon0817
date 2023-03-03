@@ -91,4 +91,8 @@
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=jwkwon0817&hide=B&theme=gruvbox"/>
+<h3 align="center">😆 Contributors 😆</h3>
+<div align="center">
+	<hr width="300px;"/>
+	<img src="https://github-contributor-stats.vercel.app/api?username=jwkwon0817&hide=B&theme=gruvbox"/>
+</div>
