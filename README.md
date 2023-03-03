@@ -50,6 +50,9 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true">
 </div>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
+<h3 align="center">❓ BOJ ❓</h3>
+<div align="center">
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
+</div>
 
 <p align="center"> <a href="https://discord.gg/mng"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/></p>
