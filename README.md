@@ -50,4 +50,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true">
 </div>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon)](https://solved.ac/jwkwon)
+
 <p align="center"> <a href="https://discord.gg/mng"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/></p>
