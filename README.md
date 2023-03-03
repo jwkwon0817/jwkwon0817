@@ -9,11 +9,14 @@
 <br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-
+<div align="center">
+	<hr width="500px;"/>
+</div>
 <br/>
 
 <h3 align="center">🖥️ OS 🖥️</h3>
 <div align="center">
+	<hr width="300px;"/>
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
 
@@ -21,6 +24,7 @@
 
 <h3 align="center">✨ Languages ✨</h3>
 <div align="center">
+	<hr width="300px;"/>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -31,6 +35,7 @@
 
 <h3 align="center">✨ Platforms ✨</h3>
 <div align="center">
+	<hr width="300px;"/>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
@@ -42,6 +47,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align=center>
+	<hr width="300px;"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white"/>
 	<img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/>
@@ -53,6 +59,7 @@
 
 <h3 align="center">⏰ Wakatime ⏰</h3>
 <div align="center">
+	<hr width="300px;"/>
 	<a href="https://wakatime.com/@04576067-463a-4fd9-be4e-56687a44d3fb"><img src="https://wakatime.com/badge/user/04576067-463a-4fd9-be4e-56687a44d3fb.svg" alt="Total time coded since Nov 7 2022" /></a>
 </div>
 
@@ -60,7 +67,7 @@
 
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 <div align="center">
-	<hr width="100px;"/>
+	<hr width="300px;"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact">
 	<br/><br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true">
@@ -68,6 +75,7 @@
 
 <h3 align="center">❓ BOJ ❓</h3>
 <div align="center">
+	<hr width="300px;"/>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
 </div>
 
