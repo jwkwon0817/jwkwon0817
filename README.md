@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&section=header&text=%20jwkwon0817%20&color=0:7c4497,100:dc2632&textBg=true&fontColor=FFFFFF)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
 <h3 align="center"> 👋Hi there!👋 </h3>
 
