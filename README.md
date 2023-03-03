@@ -6,6 +6,8 @@
 
 <p align="center">I'm studying at Middle School</p>
 
+<br/>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <br/>
