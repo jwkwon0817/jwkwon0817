@@ -32,11 +32,11 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white" />
-	<img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white"/>
+	<img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/>
 </div>
 
 <h3 align="center">⏰ Wakatime ⏰</h3>
@@ -46,11 +46,10 @@
 
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true">
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon)](https://solved.ac/jwkwon)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
 
 <p align="center"> <a href="https://discord.gg/mng"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/></p>
