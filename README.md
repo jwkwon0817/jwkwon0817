@@ -8,14 +8,14 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<hr/>
+<br/>
 
-<h3 align="center" style="font-size: 20px;">🖥️ OS 🖥️</h3>
+<h3 align="center">🖥️ OS 🖥️</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
 
-<hr/>
+<br/>
 
 <h3 align="center">✨ Languages ✨</h3>
 <div align="center">
@@ -25,7 +25,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 </div>
 
-<hr/>
+<br/>
 
 <h3 align="center">✨ Platforms ✨</h3>
 <div align="center">
@@ -36,7 +36,7 @@
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </div>
 
-<hr/>
+<br/>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align=center>
@@ -47,14 +47,14 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/>
 </div>
 
-<hr/>
+<br/>
 
 <h3 align="center">⏰ Wakatime ⏰</h3>
 <div align="center">
 	<a href="https://wakatime.com/@04576067-463a-4fd9-be4e-56687a44d3fb"><img src="https://wakatime.com/badge/user/04576067-463a-4fd9-be4e-56687a44d3fb.svg" alt="Total time coded since Nov 7 2022" /></a>
 </div>
 
-<hr/>
+<br/>
 
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 <div align="center">
