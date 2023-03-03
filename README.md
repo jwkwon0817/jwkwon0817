@@ -2,11 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jwkwon's%20GitHub!&fontSize=90"/>
 </div>
 
-<h1 align="center">👋 Hi there! 👋</h1>
+<h3 align="center">👋 Hi there! 👋</h3>
 
 <p align="center">I'm studying at Middle School</p>
 
-<h2 align="center">📚 Tech Stack 📚</h2>
+<h3 align="center">📚 Tech Stack 📚</h3>
 
 <h3 align="center">✨ Languages ✨</h3>
 <div align="center">
