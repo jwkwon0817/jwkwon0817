@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jwkwon's%20GitHub!&fontSize=90" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jwkwon's%20GitHub!&fontSize=90"/>
 
 <h3 align="center"> 👋Hi there!👋 </h3>
 
