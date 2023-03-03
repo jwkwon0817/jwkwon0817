@@ -70,4 +70,11 @@
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
 </div>
 
+<br/>
+
+<h3 align="center">😀 HITS 😀</h3>
+<div align="center">
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwkwon0817%2Fhit-counter&count_bg=%231FD9DF&title_bg=%231F9ED1&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
+
 <p align="center"> <a href="https://discord.gg/mng"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/></p>
