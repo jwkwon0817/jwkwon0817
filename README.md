@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=jwkwon's%20GitHub!&fontSize=90"/>
 </div>
 
-<h3 align="center"> 👋Hi there!👋 </h3>
+<h1 align="center"> 👋Hi there!👋 </h1>
 
 <p align="center"> I'm studying at Middle School </p>
 
