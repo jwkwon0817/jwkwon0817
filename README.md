@@ -10,7 +10,7 @@
 
 <hr/>
 
-<h3 align="center">🖥️ OS 🖥️</h3>
+<h3 align="center" style="font-size: 20px;">🖥️ OS 🖥️</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
