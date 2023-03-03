@@ -60,6 +60,9 @@
 <h3 align="center">⏰ Wakatime ⏰</h3>
 <div align="center">
 	<hr width="300px;"/>
+	<img src="https://wakatime.com/badge/user/04576067-463a-4fd9-be4e-56687a44d3fb.svg"/>
+	<br/>
+	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jwkwon0817"/>
 </div>
 
