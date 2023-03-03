@@ -20,6 +20,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </div>
 
  <a href="https://wakatime.com/@04576067-463a-4fd9-be4e-56687a44d3fb"><img src="https://wakatime.com/badge/user/04576067-463a-4fd9-be4e-56687a44d3fb.svg" alt="Total time coded since Nov 7 2022" /></a>
