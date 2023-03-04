@@ -12,13 +12,6 @@
 <div align="center">
 	<hr width="500px;"/>
 </div>
-<br/>
-
-<h3 align="center">🖥️ OS 🖥️</h3>
-<div align="center">
-	<hr width="300px;"/>
-	<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
-</div>
 
 <br/><br/>
 
