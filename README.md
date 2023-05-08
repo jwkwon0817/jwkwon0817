@@ -96,9 +96,9 @@
 <h3 align="center">Discord Server</h3>
 <div algin="center">
 	<hr width="300px;" />
-	 <a href="https://discord.gg/GJqXUsp3Hp" target="_blank">
+	 <a href="https://discord.gg/codemos" target="_blank">
 		<img 
-		     alt="Coding Lab discord server" 
-		     src="https://img.shields.io/discord/687271752224735233?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff" />
+		     alt="Codemos Discord Server" 
+		     src="https://img.shields.io/discord/1037667930411892736?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff" />
 	</a>
 </div>
