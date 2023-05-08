@@ -94,7 +94,7 @@
 </div>
 
 <h3 align="center">Discord Server</h3>
-<div algin="center">
+<div align="center">
 	<hr width="300px;" />
 	 <a href="https://discord.gg/codemos" target="_blank">
 		<img 
