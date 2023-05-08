@@ -19,6 +19,9 @@
 <div align="center">
 	<hr width="300px;"/>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+	<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -52,10 +55,12 @@
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ Idea&logoColor=white" />
 	<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
 	<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" />
 	<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+	<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
