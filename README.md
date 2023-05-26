@@ -6,6 +6,10 @@
 
 <h2 align="center">I'm studying at Middle School</p>
 
+<div align="center">
+	<img src="https://github-widgetbox.vercel.app/api/profile?username=jwkwon0817&data=followers,repositories,stars,commits" />
+</div>
+
 <br /><br />
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -66,6 +70,10 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
+</div>
+
+<div align="center">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Python,Java,Dart,JavaScript,TypeScript,HTML5,CSS3,YAML,JSON,XML,MongoDB,Firebase,MySQL,Bash&frameworks=ReactJS,Flutter,Bootstrap,TailwindCSS,ExpressJS,SvelteJS&libraries=Tensorflow,jQuery&software-ides=Linux,Windows,VSCode&tools=Git,Docker,NPM,Yarn,Firebase,MongoDB,NodeJS,Apache,AWS,Jupyter,Gradle,Prettier&includeNames=true&themes=material" />
 </div>
 
 <br /><br />
