@@ -48,8 +48,7 @@
 	<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" />
-	<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white" />/>
-	<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
+	<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white" />
 </div>
 
 <div align="center">
