@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Python,Java,JavaScript,TypeScript,HTML5,CSS3,YAML,JSON,XML,MongoDB,Firebase,MySQL,Bash&frameworks=ReactJS,ExpressJS&libraries=jQuery&software-ides=Linux,Windows,VSCode&tools=Git,NPM,Yarn,MongoDB,NodeJS,Jupyter,Gradle&includeNames=true&themes=material" />
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Python,Java,JavaScript,TypeScript,HTML5,CSS3,YAML,JSON,XML,MongoDB,MySQL,Bash&frameworks=ReactJS,ExpressJS&libraries=jQuery&software-ides=Linux,Windows,VSCode&tools=Git,NPM,Yarn,MongoDB,NodeJS,Jupyter,Gradle&includeNames=true&themes=material" />
 </div>
 
 <br /><br />
