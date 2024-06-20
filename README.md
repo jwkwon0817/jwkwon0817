@@ -4,17 +4,10 @@
 
 <h1 align="center">👋 Hi there! 👋</h3>
 
-<h2 align="center">I'm studying at Middle School</p>
+<h2 align="center">I'm studying at High School</p>
 
 <div align="center">
 	<img src="https://github-widgetbox.vercel.app/api/profile?username=jwkwon0817&data=followers,repositories,stars,commits" />
-</div>
-
-<br /><br />
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<div align="center">
-	<hr width="500px;" />
 </div>
 
 <br /><br />
@@ -31,24 +24,12 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=YAML&logoColor=white" />
-	<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" />
-	<img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=XAML&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle%20SQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ Idea&logoColor=white" />
-	<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
-	<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" />
-	<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white" />
 </div>
 
 <div align="center">
@@ -98,14 +79,4 @@
 <div align="center">
 	<hr width="300px;" />
 	<img src="https://github-contributor-stats.vercel.app/api?username=jwkwon0817&hide=B&theme=gruvbox" />
-</div>
-
-<h3 align="center">Discord Server</h3>
-<div align="center">
-	<hr width="300px;" />
-	 <a href="https://discord.gg/codemos" target="_blank">
-		<img 
-		     alt="Codemos Discord Server" 
-		     src="https://img.shields.io/discord/1037667930411892736?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff" />
-	</a>
 </div>
