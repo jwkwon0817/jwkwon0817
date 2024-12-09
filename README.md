@@ -40,9 +40,10 @@
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 <div align="center">
 	<hr width="300px;" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact&theme=dracula&hide_border=true&count_private=true" />
 	<br /><br />
-	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+
 </div>
 
 <br /><br />
