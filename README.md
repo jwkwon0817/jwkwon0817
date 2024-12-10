@@ -17,7 +17,9 @@
 <br /><br />
 
 <div align="center">
-	<img src="https://github.com/jwkwon0817/jwkwon0817/blob/output/github-contribution-grid-snake-dark.svg" />
+	<a href="#pinned-items-modal-wrapper">
+		<img src="https://github.com/jwkwon0817/jwkwon0817/blob/output/github-contribution-grid-snake-dark.svg" />
+	</a>
 </div>
 
 <h3 align="center">✨ Technologies ✨</h3>
