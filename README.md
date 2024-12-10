@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi there! 👋</h1>
 
-<h2 align="center">I'm studying at High School</h2>
+<h2 align="center">I'm studying at Sunrin Internet High School</h2>
 
 <div align="center">
 	<img src="https://github-widgetbox.vercel.app/api/profile?username=jwkwon0817&data=followers,repositories,stars,commits" />
