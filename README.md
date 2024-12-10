@@ -43,13 +43,13 @@
 
 <h3 align="center">Contact</h3>
 <div align="center">
-	<a href="https://instagram.com/jeewon__k">
+	<a href="https://instagram.com/jeewon__k" target="_blank">
 		<img src="https://skillicons.dev/icons?i=instagram" />
 	</a>
-	<a href="https://linkedin.com/in/jwkwon0817">
+	<a href="https://linkedin.com/in/jwkwon0817" target="_blank">
 		<img src="https://skillicons.dev/icons?i=linkedin" />
 	</a>
-	<a href="https://www.npmjs.com/~jwkwon0817">
+	<a href="https://www.npmjs.com/~jwkwon0817" target="_blank">
 		<img src="https://skillicons.dev/icons?i=npm" />
 	</a>
 </div>
