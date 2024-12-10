@@ -1,5 +1,7 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jeewon%20Kwon&fontSize=90" />
+	<a href="https://github.com/jwkwon0817" target="_blank">
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jeewon%20Kwon&fontSize=90" />
+	</a>
 </div>
 
 <div align="center">
