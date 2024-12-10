@@ -41,6 +41,19 @@
 
 <br /><br />
 
+<h3 align="center">Contact</h3>
+<div align="center">
+	<a href="https://instagram.com/jeewon__k">
+		<img src="https://skillicons.dev/icons?i=instagram" />
+	</a>
+	<a href="https://linkedin.com/in/jwkwon0817">
+		<img src="https://skillicons.dev/icons?i=linkedin" />
+	</a>
+	<a href="https://www.npmjs.com/~jwkwon0817">
+		<img src="https://skillicons.dev/icons?i=npm" />
+	</a>
+</div>
+
 <h3 align="center">❓ BOJ ❓</h3>
 <div align="center">
 	<hr width="300px;" />
