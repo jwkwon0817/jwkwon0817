@@ -17,7 +17,7 @@
 <br /><br />
 
 <div align="center">
-	<a href="#pinned-items-modal-wrapper">
+	<a href="https://github.com/jwkwon0817#pinned-items-modal-wrapper">
 		<img src="https://github.com/jwkwon0817/jwkwon0817/blob/output/github-contribution-grid-snake-dark.svg" />
 	</a>
 </div>
