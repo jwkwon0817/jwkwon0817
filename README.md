@@ -44,4 +44,15 @@
 
 <br /><br />
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
+<div align="center">
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
+</div>
+
+<br /><br />
+
+<h3 align="center">Awards</h3>
+<div align="center">
+	<hr width="300px" />
+	<p>AppJam 27회 미래 산업 부문 최우수상</li>
+	<p>선린인터넷고등학교 교내 디지털 콘텐츠 개발 대회 생활 부문 동상</li>
+</ul>
