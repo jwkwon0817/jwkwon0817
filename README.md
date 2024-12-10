@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=jwkwon's%20GitHub!&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jeewon%20Kwon&fontSize=90" />
 </div>
 
 <h1 align="center">👋 Hi there! 👋</h1>
@@ -30,32 +30,12 @@
 	</div>
 <br /><br />
 
-<h3 align="center">🗒️ My GitHub 🗒️</h3>
-<div align="center">
-	<hr width="300px;" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact&theme=dracula&hide_border=true&count_private=true" />
-	<br /><br />
-	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact&theme=dracula&hide_border=true&count_private=true" />
 </div>
 
 <br /><br />
 
-<h3 align="center">Contact</h3>
-<div align="center">
-	<a href="https://instagram.com/jeewon__k" target="_blank">
-		<img src="https://skillicons.dev/icons?i=instagram" />
-	</a>
-	<a href="https://linkedin.com/in/jwkwon0817" target="_blank">
-		<img src="https://skillicons.dev/icons?i=linkedin" />
-	</a>
-	<a href="https://www.npmjs.com/~jwkwon0817" target="_blank">
-		<img src="https://skillicons.dev/icons?i=npm" />
-	</a>
-</div>
-
-<h3 align="center">❓ BOJ ❓</h3>
-<div align="center">
-	<hr width="300px;" />
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
-</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
