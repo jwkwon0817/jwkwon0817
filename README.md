@@ -35,7 +35,7 @@
 		</div>
 		<br />
 		<div>
-			<img src="https://skillicons.dev/icons?i=githubactions,bash,figma" />
+			<img src="https://skillicons.dev/icons?i=githubactions,figma" />
 		</div>
 	</div>
 <br /><br />
