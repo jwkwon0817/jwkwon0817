@@ -31,11 +31,11 @@
 		</div>
 		<br />
 		<div>
-			<img src="https://skillicons.dev/icons?i=spring,fastapi,nestjs,docker,cloudflare,gcp" />
+			<img src="https://skillicons.dev/icons?i=fastapi,nestjs,docker,cloudflare,gcp,aws" />
 		</div>
 		<br />
 		<div>
-			<img src="https://skillicons.dev/icons?i=git,githubactions,yarn,bash,figma" />
+			<img src="https://skillicons.dev/icons?i=githubactions,bash,figma" />
 		</div>
 	</div>
 <br /><br />
