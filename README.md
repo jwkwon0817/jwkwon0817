@@ -31,7 +31,7 @@
 		</div>
 		<br />
 		<div>
-			<img src="https://skillicons.dev/icons?i=fastapi,nestjs,docker,cloudflare,gcp,aws" />
+			<img src="https://skillicons.dev/icons?i=fastapi,nestjs,docker,aws" />
 		</div>
 		<br />
 		<div>
